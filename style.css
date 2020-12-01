@@ -225,12 +225,12 @@ h1{
   padding: 10px 20px;
   width: 250px;
   height: 70px;
-  transition: .3s;
+  transition: .2s;
 }
 
 .buttons_container button:hover {
   border-color: #fff;
   border-width: 3px;
-  font-size: 30px;
+  font-size: 28px;
   color: #fff
 }
